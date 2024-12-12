@@ -1,0 +1,25 @@
+tensorflow
+pandas
+dvc
+notebook
+numpy
+matplotlib
+
+seaborn
+
+
+
+
+ pyYAML
+
+ tqdm ##progress part
+
+ joblib
+
+ scipy
+
+ flask
+
+ flask-Cors
+
+ -e .  #setup.py 
